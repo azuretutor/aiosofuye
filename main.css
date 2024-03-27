@@ -97,11 +97,11 @@ h1 {
   transform-origin: bottom left;
 }
 
-.paystack {
+.Tek-Experts {
   color: #110b33;
 }
 
-.paystack::after {
+.Tek-Experts::after {
   background-color: #110b33;
 }
 
