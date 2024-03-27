@@ -1,4 +1,3 @@
-# Only usable things 🔆  
-
-Visit my site https://aeadedoyin.com 😉  
-Support me https://www.buymeacoffee.com/aeadedoyin 💰
+# keep learning and grow 🔆  
+  
+Support me https://www.buymeacoffee.com/adeniyiosoo 💰
