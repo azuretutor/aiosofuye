@@ -1,3 +1,3 @@
-# keep learning and grow 🔆  
+# learn and grow 🔆  
   
 Support me https://www.buymeacoffee.com/adeniyiosoo 💰
